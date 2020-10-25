@@ -15,3 +15,5 @@ gradient_Bi_RNN.py：纯脚本设计，我没有抽象到Layers.py当中。
 lstm_new_outputs.py：调用Layers.py当中的LSTM类。
 
 multi_layer_BiLSTM.py：调用Layers.py当中的Bi_LSTM类多次，构造了多层双向LSTM的处理模块。
+
+Parameters_Enum.py：该枚举类当中，负责提供一些需要使用的文件名等参数。
