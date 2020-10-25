@@ -17,3 +17,8 @@ lstm_new_outputs.py：调用Layers.py当中的LSTM类。
 multi_layer_BiLSTM.py：调用Layers.py当中的Bi_LSTM类多次，构造了多层双向LSTM的处理模块。
 
 Parameters_Enum.py：该枚举类当中，负责提供一些需要使用的文件名等参数。
+
+test_7500.tsv：测试集数据
+
+train_17000.tsv：训练集数据
+
